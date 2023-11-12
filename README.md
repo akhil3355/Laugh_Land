@@ -24,6 +24,7 @@ Welcome to Luaghland, your go-to place for sharing and enjoying hilarious jokes!
 ## Luaghland Home Page
 
 ![Luaghland Home Page](screenshot/homeScrnShot.png)
+![Screenshot 2023-11-12 152556](https://github.com/akhil3355/Laugh_Land/assets/125437622/fbcdc00c-98fe-429b-93da-3af0982c6572)
 
 ## Getting Started
 
@@ -87,7 +88,7 @@ Welcome to Luaghland, your go-to place for sharing and enjoying hilarious jokes!
 
 ## About Luaghland
 
-Luaghland is more than just a joke-sharing platform; it's a space to connect with fellow joke enthusiasts, discover new forms of humor, and brighten your day with laughter. Our user-friendly interface makes it easy to share your favorite jokes, explore diverse categories, and engage with a community that appreciates the joy of laughter.
+Luaghland is more than just a joke-sharing platform; it's a space to discover new forms of humor, and brighten your day with laughter. Our user-friendly interface makes it easy to share your favorite jokes, explore diverse categories, and engage with a community that appreciates the joy of laughter.
 
 ## Contributing
 
