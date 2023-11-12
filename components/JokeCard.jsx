@@ -33,7 +33,7 @@ const JokeCard = ({ post, handleEdit, handleDelete, handleTagClick }) => {
     navigator.clipboard.writeText(post.joke);
     setTimeout(() => setCopied(false), 3000);
   };
-  const truncatedJoke = truncateText(post.joke, 35);
+  const truncatedJoke = truncateText(post.joke, 50);
 
   return (
     <div className="joke_card">

@@ -46,7 +46,7 @@ export const DELETE = async (request, { params }) => {
     // Find the prompt by ID and remove it
     await Joke.findByIdAndRemove(params.id);
 
-    return new Response("Prompt deleted successfully", { status: 200 });
+    return new Response("Joke deleted successfully", { status: 200 });
   } catch (error) {
     return new Response("Error deleting joke", { status: 500 });
   }
